@@ -1,4 +1,4 @@
-# Your startup name here
+# Space Pointer
 
 [My Notes](notes.md)
 
